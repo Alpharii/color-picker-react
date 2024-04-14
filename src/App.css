@@ -3,6 +3,8 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
 .logo {
@@ -47,5 +49,7 @@
   border: 2px solid;
   margin: 10px;
   margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
 }
-
